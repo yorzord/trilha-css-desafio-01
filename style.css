@@ -65,10 +65,53 @@ body {
     text-transform: uppercase;
     letter-spacing: 4px;
     font-weight: 900;
-    font-size: 16;
+    font-size: 16px;
 
 }
+
 .banner-content p {
     margin: 16px 0 24px;
 
+}
+
+#course-content {
+    width: 792px;
+    height: 325px;
+    margin: auto;
+    text-align: center;
+    margin-top: 69px;
+
+}
+
+#course-content h2 {
+    color: #33A8DB;
+    letter-spacing: 4px;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+#course-content p {
+    font-weight: 400;
+    font-size: 16px;
+  color: #FFFFFF;
+  margin: 16px 0;
+}
+.modules-list {
+
+}
+.modules-list .module{
+    background-color: #252525;
+    border: 1px solid #33A8DB;
+border-radius: 57px;
+width: 535px;
+height: 51px;
+margin: auto;
+margin-bottom: 24px;
+box-shadow: inset -5px 6px 8px #00000066;
+align-content: center;
+}
+.modules-list .module span{
+    color: #33A8DB;
 }
